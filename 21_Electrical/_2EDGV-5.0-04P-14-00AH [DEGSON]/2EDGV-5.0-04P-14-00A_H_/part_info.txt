@@ -1,0 +1,9 @@
+Manufacturer=Degson
+PartNumber=2EDGV-5.0-04P-14-00A(H)
+PartCategory=Connector
+PackageCategory=Header, Receptacle - Straight PTH Box
+PinCount=4
+Version=2.1
+Released=2019-01-17 10:28:43
+Downloaded=2024-06-24 15:37:56
+3D=Y

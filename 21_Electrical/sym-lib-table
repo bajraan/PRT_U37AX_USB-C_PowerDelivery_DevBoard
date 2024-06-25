@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "_TS2940CW33_RPG")(type "KiCad")(uri "${KIPRJMOD}/_TAIWAN_SEMI__TS2940CW33_RPG [LDO 3.3]/TS2940CW33_RPG.kicad_sym")(options "")(descr ""))
+  (lib (name "_schutzinger SWEB 8094")(type "KiCad")(uri "${KIPRJMOD}/_schutzinger SWEB 8094/schutzinger SWEB 8094.kicad_sym")(options "")(descr ""))
+)

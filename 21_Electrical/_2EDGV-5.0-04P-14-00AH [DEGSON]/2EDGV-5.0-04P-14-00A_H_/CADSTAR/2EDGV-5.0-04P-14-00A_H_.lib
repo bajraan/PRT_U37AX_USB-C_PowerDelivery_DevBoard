@@ -1,0 +1,18 @@
+.2EDGV-5.0-04P-14-00A_H_ :1 ;Pluggable Terminal Blocks
+RHDR4W100P0X500_1X4_2140X820X1210P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN 2EDGV-5.0-04P-14-00A_H_
+~!Manufacturer_Name (Degson)
+~!Manufacturer_Part_Number (2EDGV-5.0-04P-14-00A(H))
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (-)
+~!Height (12.1mm)
+~!3D_Model (2EDGV-5.0-04P-14-00A_H_)
+"2EDGV-5.0-04P-14-00A_H_"
+1.1!U 2.1!U 3.1!U 4.1!U 

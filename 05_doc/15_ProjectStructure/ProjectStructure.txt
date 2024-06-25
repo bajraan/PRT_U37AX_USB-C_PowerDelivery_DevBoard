@@ -1,0 +1,12 @@
+00_FotoDocumentation
+05_doc
+21_Electrical
+22_Mechanical
+23_Software
+50_Test_AcceptanceLevel
+51_Test_IntegrationLevel
+52_Release
+60_Order
+flayer.png
+PRT_U37AX_USB-C_PowerDelivery_DevBoard
+2024_0620__U37AX__USB-C_PowerDelivery_DevBoard__[GIT]

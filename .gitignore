@@ -1,0 +1,41 @@
+# KiCad backup files
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_sch-bak
+*~
+
+# C++/STM32 build files
+*.o
+*.d
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.srec
+*.out
+*.axf
+*.dep
+*.dmp
+*.gch
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Ignore build directories
+/build/
+/dist/
+/Debug/
+/Release/
+
+# User ignored
+/20_Electrical/Screens_2/
+/20_Electrical/U37AX__USB-C_PowerDelivery_DevBoard-backups
+/20_Electrical/U37AX_USB_PowerDelivery_TestBoard-backups

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "2EDGV-5_0-04P-14-00A_H_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-30-16:54:22)
+    (mountForm default
+        (footprintRef "RHDR4W100P0X500_1X4_2140X820X1210P")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2EDGV_5.0_04P_14_00A_H_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Degson", "2EDGV-5.0-04P-14-00A(H)" (!) = "", "RHDR4W100P0X500_1X4_2140X820X1210P", "Header, Receptacle - Straight PTH Box", "", "", "", "", "Pluggable Terminal Blocks", "", "12.1 mm"
+END_PART
+
+END.
