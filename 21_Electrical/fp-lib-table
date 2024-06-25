@@ -5,4 +5,5 @@
   (lib (name "_schutzinger SWEB 8094")(type "KiCad")(uri "${KIPRJMOD}/_schutzinger SWEB 8094/schutzinger SWEB 8094.pretty")(options "")(descr ""))
   (lib (name "_2EDGV-5.0-04P-14-00A_H_")(type "KiCad")(uri "${KIPRJMOD}/_2EDGV-5.0-04P-14-00AH [DEGSON]/_2EDGV-5.0-04P-14-00A_H_.pretty")(options "")(descr ""))
   (lib (name "_FUSB302BMPX")(type "KiCad")(uri "${KIPRJMOD}/_FUSB302BMPX/_FUSB302BMPX.pretty")(options "")(descr ""))
+  (lib (name "_URL_QrCode")(type "KiCad")(uri "${KIPRJMOD}/_URL_Qrcode/_URL_QrCode.pretty")(options "")(descr ""))
 )
