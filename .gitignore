@@ -2,7 +2,7 @@
 *.kicad_pcb-bak
 *.sch-bak
 *.kicad_sch-bak
-*~
+*~_autosave*
 
 # C++/STM32 build files
 *.o
