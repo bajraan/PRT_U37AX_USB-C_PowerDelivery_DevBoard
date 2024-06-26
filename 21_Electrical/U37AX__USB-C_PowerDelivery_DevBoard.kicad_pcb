@@ -4966,7 +4966,7 @@
 		(at 136.6 76.2 90)
 		(tags "FUSB302BMPX ")
 		(property "Reference" "U1"
-			(at 0 2.6 90)
+			(at 3.175 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "dd50d725-f776-447c-b72d-b4323dc71bef")
@@ -28269,7 +28269,7 @@
 		)
 	)
 	(gr_text "I2_SCL"
-		(at 142.315 77.47 0)
+		(at 144.22 77.47 0)
 		(layer "B.SilkS")
 		(uuid "110151d3-e461-4168-9db7-a33098b6e469")
 		(effects
@@ -28277,7 +28277,7 @@
 				(size 0.8 0.8)
 				(thickness 0.09375)
 			)
-			(justify mirror)
+			(justify left mirror)
 		)
 	)
 	(gr_text "USART_RX"
@@ -28305,7 +28305,7 @@
 		)
 	)
 	(gr_text "I2C_SDA"
-		(at 142.315 74.93 0)
+		(at 144.22 74.93 0)
 		(layer "B.SilkS")
 		(uuid "29c8b88b-dd91-4f39-ac22-9a80aef312a3")
 		(effects
@@ -28313,7 +28313,7 @@
 				(size 0.8 0.8)
 				(thickness 0.09375)
 			)
-			(justify mirror)
+			(justify left mirror)
 		)
 	)
 	(gr_text "0"
@@ -28341,7 +28341,7 @@
 		)
 	)
 	(gr_text "I2C_INT"
-		(at 142.315 80.01 0)
+		(at 144.22 80.01 0)
 		(layer "B.SilkS")
 		(uuid "3a3e71c7-4885-4f28-b2de-2a702dbcca35")
 		(effects
@@ -28349,7 +28349,7 @@
 				(size 0.8 0.8)
 				(thickness 0.09375)
 			)
-			(justify mirror)
+			(justify left mirror)
 		)
 	)
 	(gr_text "GND"
@@ -28651,7 +28651,7 @@
 		)
 	)
 	(gr_text "PWR_IN"
-		(at 145.49 62.865 0)
+		(at 138.505 63.5 0)
 		(layer "B.SilkS")
 		(uuid "edcc51ee-6582-41b4-b1bb-05d3ff017996")
 		(effects

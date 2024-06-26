@@ -63,7 +63,7 @@
       39,
       40
     ],
-    "visible_layers": "c000020_7fffffff",
+    "visible_layers": "c000010_fffffffe",
     "zone_display_mode": 0
   },
   "git": {

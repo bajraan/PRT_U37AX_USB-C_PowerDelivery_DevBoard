@@ -1,0 +1,7 @@
+Current:
+1. Check 2.54 pinheader hole size
+FUTURE VERSION
+1. TVS Diodes on signal usb lines
+2. Discharge VBUS transistor driven by uC
+3. VBUS sensing by uC
+4. ferrid bead on PWR_IN
